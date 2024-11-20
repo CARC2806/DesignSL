@@ -1,0 +1,315 @@
+Name,Cuisine,Price,Rating,Seats,Average Meal Price,Country,City,Latitude,Longitude
+Pfefferschiff,Classic cuisine,$$$,4.4,85,108.91,Österreich,Bezirk Salzburg-Umgebung,47.8381713,13.078568251894037
+Esszimmer,Creative,$$$$,4.2,108,160.07,Deutschland,Mitte,52.5335662,13.370967
+Carpe Diem,Market cuisine,$$$$,4.1,54,171.96,France,Île-de-France,48.8914446,2.2456739031338304
+Edvard,Modern cuisine,$,3.8,23,45.03,Suomi / Finland,Lappi,66.5034025,25.7286616
+Das Loft,Modern cuisine,$$,4.3,108,96.84,Österreich,Leopoldstadt,48.2127196,16.3797905
+Pramerl & the Wolf,Creative,$$$$,3.9,90,171.71,Österreich,Alsergrund,48.2220715,16.3648534
+Walter Bauer,Classic cuisine,$$$$,4.8,48,167.25,Deutschland,Augsburg,48.310091400000005,10.858477314572866
+Tian,Vegetarian,$,3.8,86,48.15,Liberia,Tian,6.26426,-8.48748
+aend,Modern cuisine,$$,4.6,112,74.76,Österreich,Mariahilf,48.1896768,16.340999
+Le Ciel by Toni Mörwald,Classic cuisine,$,4.1,122,33.56,Österreich,Innere Stadt,48.2021466,16.3720596
+Chez TJ,Contemporary,$$,4.1,121,96.44,United States,Santa Clara County,37.39467405,-122.08041647869743
+Protégé,Contemporary,$,4.9,143,39.37,United States,Santa Clara County,37.4278948,-122.1437532
+The Village Pub,Contemporary,$$,3.2,93,64.38,United States,Collier County,26.1971487,-81.8112513
+Plumed Horse,Contemporary,$$$,3.0,120,127.36,United States,Santa Clara County,37.2565965,-122.0351048
+Wakuriya,Japanese,$,4.7,97,41.15,United States,San Mateo County,37.5213369,-122.3368004
+Maum,Korean,$$,5.0,45,90.52,Éire / Ireland,Conamara Municipal District,53.46880415,-10.046078520584487
+Al's Place,Californian,$$,4.6,41,63.59,United States,Polk County,27.9225305,-81.59401668772276
+Aster,Californian,$$,3.9,139,65.07,France,Occitanie,43.0415704,0.1695192
+Omakase,Japanese,$$$,4.6,147,107.01,United States,San Francisco,37.7706608,-122.402891
+Commonwealth,Contemporary,$,3.2,149,27.2,Singapore,Central,1.3024428,103.7983085
+Birdsong,American,$$,3.3,94,93.49,United States,Mississippi County,35.4584169,-90.2625967
+In Situ,International,$$,4.9,98,87.93,United Kingdom,Greater London,51.4735716,-0.2126539
+Mourad,Moroccan,$$$$,4.0,82,165.69,United States,San Francisco,37.7868659,-122.4000306
+Hashiri,Japanese,$$$,3.8,92,147.63,日本,羽咋郡,36.8666711,136.8475904
+Angler,Contemporary,$$$$,3.5,65,191.78,United States,Angler,32.5928669,-95.2534628
+Rich Table,Contemporary,$$,4.5,67,83.35,United States,San Francisco,37.7748889,-122.4227248
+Kin Khao,Thai,$$$$,3.9,77,181.56,France,Auvergne-Rhône-Alpes,45.7566695,4.8539714
+Michael Mina,Contemporary,$$$$,4.1,109,158.59,United States,Middle Tennessee,36.1564975,-86.7811
+Sons & Daughters,Contemporary,$$,3.0,145,84.34,United States,San Francisco,37.7902305,-122.4091292
+Mister Jiu's,Chinese,$$$,4.2,102,131.9,United States,San Francisco,37.7937168,-122.4066622
+Nico,Contemporary,$$,4.2,37,71.94,France,Alpes-Maritimes,43.7009358,7.2683912
+jū-ni,Japanese,$$$$,4.2,114,177.39,Malaysia,George Town,5.28817725,100.27497035258475
+The Progress,Californian,$$,4.4,78,58.24,México,Municipio de Los Cabos,22.905948,-109.9260582
+State Bird Provisions,American,$$,3.7,117,52.95,United States,San Francisco,37.7837055,-122.4329482
+Octavia,Californian,$$,3.9,66,92.54,United States,Octavia,41.3480661,-97.0589235
+SPQR,Italian,$$$$,4.4,147,154.14,Magyarország,Budapest,47.552965349999994,19.075210459725533
+Lord Stanley,Californian,$$$,3.1,101,114.84,United Kingdom,Greater London,51.54710455,-0.12969362240128723
+Kinjo,Japanese,$$$,4.3,32,107.78,Australia,Randwick City Council,-33.9193931,151.2423314
+Sorrel,Californian,$,4.3,138,20.1,Éire / Ireland,The Municipal District of Kanturk-Mallow,52.309861,-8.6394692
+Gary Danko,Contemporary,$$,3.4,66,96.57,United States,San Francisco,37.8058128,-122.4205641
+Spruce,Californian,$$,3.6,52,57.49,United States,Town of Spruce,44.9524292,-88.1650083
+Madcap,Contemporary,$$,4.1,135,58.77,Россия,Санкт-Петербург,59.9327875,30.3245082
+Aubergine,Contemporary,$$$$,3.9,107,174.5,United Kingdom,Greater London,51.4254919,-0.1649387
+Kenzo,Japanese,$$$$,5.0,144,164.52,France,Île-de-France,48.8692013,2.3249862
+La Toque,Contemporary,$,3.2,127,48.65,France,Auvergne-Rhône-Alpes,46.37303075,2.4785085753958587
+Bouchon,French,$$$,3.4,72,129.03,France,Hauts-de-France,50.0352746,2.0287752
+Auberge du Soleil,Californian,$,3.3,130,40.82,France,Nouvelle-Aquitaine,43.7980142,-1.3031014
+Farmhouse Inn & Restaurant,Californian,$$$$,4.3,84,151.02,United Kingdom,Gloucestershire,51.817873899999995,-2.27590488744677
+The Kitchen,Contemporary,$$$,3.5,96,134.74,United Kingdom,Balmaha,56.0777798,-4.549183841192939
+Madrona Manor,Contemporary,$$$$,3.9,138,166.15,España,Barcelona,41.50416155,2.3771124525834377
+Harbor House,Californian,$$$,3.5,93,106.29,United States,Appleton,44.257482550000006,-88.4164469795124
+Shin Sushi,Japanese,$$$$,3.3,24,184.68,Norge,Bergen,60.469462,5.3217907
+Rustic Canyon,Californian,$,3.2,27,28.88,United States,Canyon County,43.63605554996215,-116.59675420405007
+Dialogue,Contemporary,$$,4.3,68,72.72,Côte d’Ivoire,Divo,5.8155401,-5.360918
+CUT,Steakhouse,$$,3.4,57,95.26,România,Cut,45.9397245,23.6671934
+Nozawa Bar,Japanese,$$,3.7,136,51.13,日本,下高井郡,36.9166479,138.4431428
+Shunji,Japanese,$,4.6,68,39.3,中国,祥符区,34.7752483,114.4986963
+Maude,Contemporary,$$$$,3.2,129,167.12,Australia,Hay Shire Council,-34.4740821,144.300715
+Mori Sushi,Japanese,$$$,4.7,69,105.17,مصر,الفاروقية,29.9565477,31.2607594
+Osteria Mozza,Italian,$$$$,5.0,110,151.99,United States,Los Angeles County,34.0832557,-118.3388721
+Kali,Californian,$$,3.9,49,93.75,Hrvatska,Općina Kali,44.0635711,15.2063737
+Le Comptoir,Californian,$$,5.0,23,87.23,France,Île-de-France,48.8295928,2.3338933
+Q Sushi,Japanese,$$$,4.2,94,112.81,Brasil,Maranhão,-5.0959962,-42.8269201
+Shibumi,Japanese,$$$$,4.5,104,180.03,Ecuador,Quito,-0.1928937,-78.4992067
+Hayato,Japanese,$$$$,3.1,85,152.71,日本,霧島市,31.743887,130.7402683
+Bistro Na's,Chinese,$,3.6,139,20.93,United States,Los Angeles County,34.1045812,-118.0724311
+Orsa & Winston,Fusion,$$$,3.2,40,144.95,United States,Los Angeles County,34.0484337,-118.2479229
+Taco María,Mexican,$$$$,3.6,62,185.51,Ecuador,Quito,-0.21551019999999999,-78.42918415
+Hana re,Japanese,$$$,3.2,48,147.88,Schweiz/Suisse/Svizzera/Svizra,Verwaltungsregion Emmental-Oberaargau,47.0635504,7.611061
+Addison,Contemporary,$$,3.6,107,51.86,United States,Addison Township,41.931696,-87.9889556
+Parachute,Fusion,$$$,3.8,68,107.03,United States,Parachute,39.446422999999996,-108.05226720380692
+Goosefoot,Contemporary,$,3.1,122,45.26,United States,Black Butte Ranch,44.36549366006565,-121.66661639248818
+Elizabeth,Contemporary,$$,4.4,29,84.62,United States,Elizabeth,40.6639916,-74.2107006
+EL Ideas,Contemporary,$$$$,4.1,22,188.68,United States,Cook County,41.8625051,-87.6868715
+Schwa,Contemporary,$$,4.0,128,70.91,United States,Cook County,41.9089411,-87.6679496
+Temporis,Contemporary,$$,3.2,109,81.13,United States,Cook County,41.8989063,-87.6670205
+Entente,Contemporary,$$$,4.2,144,128.04,United States,Cook County,41.8949375,-87.6387433
+Elske,Contemporary,$$$$,4.9,137,193.38,United States,Cook County,41.8844717,-87.6609272
+Roister,Contemporary,$$,4.3,110,66.24,Brasil,Rio Grande do Sul,-30.0220601,-51.1948305
+Boka,Contemporary,$$$$,3.3,88,177.24,Crna Gora / Црна Гора,Kotor,42.45424865,18.67203018166761
+Blackbird,Contemporary,$$$,4.4,125,108.54,United States,New Castle County,39.3709449,-75.6590959
+North Pond,Contemporary,$$,3.4,32,53.39,United States,Brookfield,42.1929107,-72.06762308250389
+Everest,French,$$$,4.2,124,115.88,नेपाल,Khumbupasanglahmu,27.9880614,86.92521
+Topolobampo,Mexican,$$,3.0,142,78.73,México,Ahome,25.601363,-109.054311
+Spiaggia,Italian,$$,4.7,53,76.98,Hrvatska,Zavala,43.124199,16.6860087
+Monte,Creative,$$$,3.0,119,100.44,France,Corse,42.4687171,9.3916453
+Draga di Lovrana,Modern cuisine,$$,4.4,70,97.95,Hrvatska,Općina Lovran,45.27575095,14.251475381255508
+Noel,Modern cuisine,$$,3.5,108,84.32,United States,McDonald County,36.5453535,-94.4854959
+Pelegrini,Modern cuisine,$$$$,4.5,40,184.69,Argentina,Departamento Copo,-25.809728798793614,-62.82893054660323
+360º,Modern cuisine,$$$$,4.9,92,151.71,Portugal,Santa Maria da Feira,40.9972494,-8.5340058
+Field,Modern cuisine,$$$$,3.5,38,150.96,United States,Minneapolis,44.9168278,-93.2684148
+La Degustation Bohême Bourgeoise,Modern cuisine,$$,4.2,59,72.18,Česko,Hlavní město Praha,50.0910323,14.4251059
+Gastromé,Modern cuisine,$$$,4.2,143,123.99,Danmark,Aarhus Kommune,56.18695,10.2176225
+Domestic,Modern cuisine,$$$$,4.1,48,160.25,United States,Domestic,40.6117126,-85.0885807
+Substans,Modern cuisine,$$$$,3.4,65,163.21,Danmark,Aarhus Kommune,56.1652916,10.2285905
+Frederikshøj,Creative,$$,4.9,74,82.02,Danmark,Aarhus Kommune,56.12492305,10.209048873064315
+Me‚Mu,Modern cuisine,$$$$,3.9,20,158.76,Ísland,Hveragerðisbær,63.9966982,-21.1901442
+Ti Trin Ned,Modern cuisine,$$$$,4.7,119,152.46,Danmark,Fredericia Kommune,55.559852,9.7546954
+Slotskøkkenet,Creative,$,4.4,70,45.47,Danmark,Odsherred Kommune,55.7711476,11.391071
+Søllerød Kro,Modern cuisine,$$$$,3.6,122,175.87,Danmark,Rudersdal Kommune,55.81369375,12.495219164165668
+Jordnær,Danish,$$,4.6,40,99.44,Norge,Kongsberg,59.6696395,9.649146383060902
+Kiin Kiin,Thai,$$$,4.8,148,100.71,Danmark,Københavns Kommune,55.6918479,12.5573009
+formel B,Modern cuisine,$$$,4.2,129,122.21,Danmark,Frederiksberg Kommune,55.670698,12.5355288
+Clou,Modern cuisine,$$$,4.4,35,109.67,Italia,Valtournenche,45.8637187,7.6099942
+Marchal,Modern cuisine,$$$$,4.5,138,176.02,España,Comarca de Guadix,37.2963627,-3.2021995
+Kong Hans Kælder,Classic French,$$$,4.0,53,132.99,Danmark,Københavns Kommune,55.6787557,12.5840367
+108,Modern cuisine,$$,4.3,21,95.0,Ísland,Háaleiti og Bústaðir,64.12529711787911,-21.871984323778502
+Era Ora,Italian,$$$$,3.8,30,165.95,Italia,Livorno,43.5563481,10.3091146
+Alouette,Modern cuisine,$$,4.2,26,82.67,Canada,Saguenay–Lac-Saint-Jean,48.3355449,-70.9822736
+Frederiksminde,Creative,$$,3.0,145,58.06,Danmark,Vordingborg Kommune,55.124186300000005,12.048923383799835
+Kadeau Bornholm,Creative,$,3.6,26,30.69,Danmark,Sømarken,55.0045177,14.969038
+Ask,Modern cuisine,$$$$,4.3,122,177.68,Norge,Gjerdrum,60.0718181,11.0345437
+Grön,Finnish,$$$$,3.6,95,185.34,France,Bourgogne-Franche-Comté,48.15697,3.26224
+Demo,Modern cuisine,$,4.2,134,41.62,Italia,Brescia,46.0881998,10.3429053
+Olo,Modern cuisine,$$,3.9,105,80.21,Portugal,Olo e Canadelo,41.298706749999994,-8.000597903610371
+Palace,Modern cuisine,$$,3.3,146,51.57,België / Belgique / Belgien,Brussel-Hoofdstad - Bruxelles-Capitale,50.84795475,4.3482190900005575
+Ora,Modern cuisine,$,3.6,134,40.86,Italia,Bolzano - Bozen,46.3465946,11.2986335
+Botrini's,Mediterranean,$$$$,4.1,71,181.98,Ελλάς,Περιφέρεια Αττικής,38.023480649999996,23.79369677503791
+Varoulko Seaside,Seafood,$,4.2,22,30.24,Ελλάς,Περιφέρεια Αττικής,37.937305,23.6585293
+Hytra,Modern cuisine,$$$$,4.1,96,196.49,Ελλάς,Περιφέρεια Αττικής,37.9580067,23.7189641
+Loaf On,Cantonese,$,4.3,29,37.36,中国,西貢區 Sai Kung District,22.3797767,114.2721228
+Lei Garden (Kwun Tong),Cantonese,$$$$,4.3,135,175.42,中国,觀塘區 Kwun Tong District,22.30631456877157,114.23338482679725
+Tim Ho Wan (Sham Shui Po),Dim Sum,$$$,3.9,136,121.97,中国,九龍 Kowloon,22.32903,114.16634
+Lei Garden (Mong Kok),Cantonese,$$,4.8,63,86.23,中国,九龍 Kowloon,22.3203755,114.1713627
+Ming Court,Cantonese,$$,3.7,99,81.62,中国,九龍城區 Kowloon City District,22.326680850000002,114.17758762756809
+Yat Tung Heen (Jordan),Cantonese,$$$$,3.9,82,156.33,中国,九龍 Kowloon,22.3079844,114.1717249
+Shang Palace,Cantonese,$$$,4.6,67,138.32,France,Île-de-France,48.86373,2.2933315
+Rech,Seafood,$$$$,4.8,38,182.21,Deutschland,Altenahr,50.5131539,7.0369406
+Spring Moon,Cantonese,$$$,4.4,109,119.84,United States,Bexar County,29.574716577853646,-98.37905581519894
+Sushi Tokami,Sushi,$$$$,3.3,112,150.6,日本,中央区,35.669446,139.7593806
+Tosca,Italian,$,4.7,125,26.94,Italia,Varsi,44.6242913,9.8125043
+Épure,French,$$$$,3.3,26,159.16,France,Auvergne-Rhône-Alpes,45.73781305,4.832970525394307
+Ho Hung Kee,Noodles and congee,$,4.7,60,27.73,Nederland,Zuid-Holland,51.9156289,4.4767318
+Jardin de Jade (Wan Chai),Shanghainese,$$,4.6,57,79.95,中国,灣仔區 Wan Chai District,22.2804501,114.1771008
+Kam's Roast Goose,Cantonese Roast Meats,$$$$,3.1,115,167.6,中国,灣仔區 Wan Chai District,22.27766,114.1753
+Pang's Kitchen,Cantonese,$$,4.4,116,73.67,中国,灣仔區 Wan Chai District,22.269228,114.184552
+Xin Rong Ji,Taizhou,$,3.9,52,47.17,日本,寝屋川市,34.7586551,135.6261059
+Qi (Wan Chai),Sichuan,$$,4.4,82,79.45,中国,灣仔區 Wan Chai District,22.2763457,114.1711667
+Man Wah,Cantonese,$$$$,4.7,113,166.5,Deutschland,Hamburg-Mitte,53.549239,9.9648019
+Summer Palace,Cantonese,$,5.0,84,45.27,中国,海淀区,39.99009825,116.2647403069096
+Arbor,Innovative,$,3.0,56,32.39,United States,Contra Costa County,37.9615895,-121.7232868
+VEA,Innovative,$$$,3.7,103,147.03,Eesti,Peipsiääre vald,58.647674800000004,26.96764173232406
+Mandarin Grill + Bar,European contemporary,$$,4.5,147,91.14,United States,Polk County,41.601513,-93.7950352
+Yat Lok,Cantonese Roast Meats,$$,3.3,25,75.95,中国,香港島 Hong Kong Island,22.282528,114.155321
+Guo Fu Lou,Cantonese,$$$,4.0,112,149.35,中国,中西區 Central and Western District,22.2779114,114.1600072
+Celebrity Cuisine,Cantonese,$$,3.1,103,80.48,中国,香港島 Hong Kong Island,22.2842658,114.1532115
+Arcane,European contemporary,$$$$,3.0,20,166.74,United Kingdom,Greater London,51.49133435,-0.255533971428572
+Duddell's,Cantonese,$$,4.6,94,59.18,中国,中西區 Central and Western District,22.28023955,114.15724946001018
+Beefbar,Steakhouse,$$$$,3.4,81,195.29,中国,香港島 Hong Kong Island,22.2800098,114.1573994
+New Punjab Club,Indian,$,3.7,87,49.22,India,Faridabad,28.3867501,77.29723882965304
+Belon,French,$$,4.4,104,52.36,France,Bretagne,47.8154268,-3.705981
+The Ocean,French,$$$,3.3,76,106.41,Canada,Halifax Regional Municipality,44.5530165,-63.60421742099916
+Costes Downtown,Modern cuisine,$$$,4.2,82,113.99,Magyarország,Budapest,47.501022,19.0483225
+Stand,Modern cuisine,$$$$,3.5,137,180.1,Schweiz/Suisse/Svizzera/Svizra,Verwaltungsregion Oberland,46.7682085,7.8913916
+Costes,Modern cuisine,$$$,4.2,99,132.12,Magyarország,Budapest,47.488785,19.0622918
+The Kitchen,Steakhouse,$,4.1,91,40.07,United Kingdom,Balmaha,56.0777798,-4.549183841192939
+Tim's Kitchen,Cantonese,$$$,4.2,82,102.61,Canada,Regina,50.4748744,-104.6330485
+Wing Lei,Cantonese,$$,4.5,43,78.02,中国,元朗區 Yuen Long District,22.4416362,114.0961319
+King,Cantonese,$$,3.6,111,76.97,United States,King County,33.588178,-100.2178972
+Ying,Cantonese,$$$,3.8,130,106.87,Ghana,Ying,9.6691134,-0.812543
+Shinji by Kanesaka,Sushi,$$$$,3.4,27,151.37,Singapore,Central,1.2947239,103.854586
+The Golden Peacock,Indian,$,3.4,42,32.45,United States,King County,47.4440929,-122.147531
+Pearl Dragon,Cantonese,$$,4.0,67,51.77,United Kingdom,Greater London,51.5744581,0.1858588463849969
+Lai Heen,Cantonese,$$$$,3.5,134,189.05,中国,九龍 Kowloon,22.293448,114.1740156
+FAGN,Modern cuisine,$$$,3.5,31,111.14,Norge,Trondheim,63.4339964,10.3963407
+Credo,Creative,$$$$,3.1,98,199.97,United States,City of New York,40.7226915,-73.9938388
+Sabi Omakase,Sushi,$$$,3.6,110,116.28,Norge,Sentrum,59.9142902,10.7290769
+Galt,Modern cuisine,$$,4.4,54,72.24,United States,Galt,42.6935804,-93.6053548
+Kontrast,Scandinavian,$$,3.8,74,74.75,Deutschland,Friedrichshain-Kreuzberg,52.5206477,13.452056
+Statholdergaarden,Classic cuisine,$$$,3.4,101,126.39,Norge,Sentrum,59.909517,10.743218
+Del Posto,Italian,$$$$,3.0,91,185.91,United Kingdom,Greater London,51.4558394,-0.3209288537881215
+L'Appart,French,$$$$,4.4,79,150.31,México,Cuauhtémoc,19.4132855,-99.1755377
+Okuda,Japanese,$$$,3.9,132,120.65,日本,稲沢市,35.2357343,136.8108029
+Wallsé,Austrian,$$$$,4.1,88,186.01,United States,City of New York,40.7354186,-74.0082138
+Sushi Nakazawa,Japanese,$$$$,5.0,121,177.29,United States,City of New York,40.7317406,-74.0045409
+Kosaka,Japanese,$$$$,3.4,39,170.12,日本,小坂町,40.3333446,140.7359108
+Bâtard,Contemporary,$$,4.3,127,58.49,United States,City of New York,40.7195759,-74.0058025
+Hirohisa,Japanese,$$$$,3.5,28,158.82,Brasil,Região Geográfica Intermediária de São Paulo,-23.55232195,-46.48896411589799
+Blue Hill,American,$,3.0,116,22.19,United States,City of New York,40.7320396,-73.9995703
+Babbo,Italian,$$,3.6,120,61.32,United Kingdom,Greater London,51.50867275,-0.14178181133527373
+Carbone,Italian,$$$,3.8,149,111.24,Italia,Carbone,40.142409,16.08938
+Le Coucou,French,$$$$,4.2,50,152.63,France,Hauts-de-France,50.804463,2.5181604
+Aldea,Mediterranean,$,4.7,39,37.58,România,Mărtiniș,46.2524894,25.4342238
+Cote,Korean,$$$,4.3,24,112.69,Costa Rica,Cantón de Guatuso,10.6183064,-84.90716983564548
+Bouley at Home,Contemporary,$$$$,4.7,126,188.91,United States,City of New York,40.7411298,-73.992128
+Nix,Vegetarian,$$$,4.6,143,141.89,United States,Nix,31.1079481,-98.3669783
+Junoon,Indian,$$$,3.4,80,126.72,United States,City of New York,40.7431207,-73.9909146
+NoMad,Contemporary,$,4.9,113,21.81,United States,New York County,40.7446884,-73.9882851
+The Musket Room,Contemporary,$$$,4.4,60,105.65,United States,City of New York,40.7239188,-73.9937813
+Gramercy Tavern,Contemporary,$$$$,4.5,49,178.31,United States,City of New York,40.7383894,-73.988414
+The Clocktower,Contemporary,$$$,3.5,114,113.61,United Kingdom,Greater London,51.52550305,-0.029156625989278595
+Ai Fiori,Italian,$,3.4,146,25.52,Italia,Udine,45.673227999999995,13.105906383827648
+Casa Mono,Spanish,$$,4.0,36,60.39,United States,City of New York,40.7359257,-73.9871655
+The River Café,Contemporary,$$$,3.4,85,124.82,United Kingdom,Greater London,51.4840371,-0.224212
+Café China,Chinese,$$,3.7,148,71.76,Portugal,Fafe,41.451082,-8.1936283
+Kanoyama,Japanese,$$$,3.9,107,102.21,United States,City of New York,40.7305655,-73.9864902
+Contra,Contemporary,$,3.6,57,23.77,Schweiz/Suisse/Svizzera/Svizra,Distretto di Locarno,46.1883815,8.8397143
+Atomix,Korean,$$,4.2,131,94.09,Schweiz/Suisse/Svizzera/Svizra,Bezirk Zürich,47.3678873,8.536188
+Kyo Ya,Japanese,$$$,4.7,109,108.1,France,Île-de-France,48.8571049,2.3550422
+Kajitsu,Japanese,$$,3.2,121,63.86,日本,文京区,35.7082856,139.7602841
+Agern,Scandinavian,$$$,4.0,61,125.96,Danmark,Rudersdal Kommune,55.87123414339052,12.493586979580007
+Sushi Yasuda,Japanese,$$$,4.1,138,135.13,日本,港区,35.6659346,139.7204049
+Café Boulud,French,$$$$,3.3,129,160.09,United States,City of New York,40.7743902,-73.9639545
+Claro,Mexican,$$$$,4.0,31,172.7,Schweiz/Suisse/Svizzera/Svizra,Distretto di Bellinzona,46.2552548,9.0231951
+Satsuki,Japanese,$$$,3.7,139,108.28,日本,台東区,35.7181706,139.7877771
+Sushi Noz,Japanese,$$,4.9,46,53.36,United States,City of New York,40.7738874,-73.9581318
+Sushi Inoue,Japanese,$$$$,4.5,68,199.25,United States,City of New York,40.8108361,-73.9435614
+Meadowsweet,Mediterranean,$,4.5,116,43.28,United States,Marin County,37.9229807,-122.5094189
+Casa Enríque,Mexican,$$$,4.8,120,104.86,United States,City of New York,40.7433617,-73.9542277
+Peter Luger,Steakhouse,$,3.2,102,32.26,United States,City of New York,40.7098661,-73.9625564
+Oxomoco,Mexican,$$$$,4.1,107,189.89,United States,City of New York,40.72977,-73.95546035327828
+The Finch,American,$$$$,4.2,22,193.69,United States,Golden Triangle,39.73925555,-104.99587019986265
+Senses,Modern cuisine,$$,3.6,30,83.0,France,Nouvelle-Aquitaine,44.5062752,-0.3136066
+atelier Amaro,Modern cuisine,$$,3.5,25,65.79,Brasil,Sergipe,-10.788250300000001,-37.055383841836736
+Olympe,French,$$,3.2,58,67.75,Ελλάς,Περιφερειακή Ενότητα Λάρισας,39.9831975,22.4929999
+Lasai,modern,$,3.0,120,42.91,Brasil,Rio de Janeiro,-22.9531425,-43.196313
+Mee,Asian influences,$,4.3,79,45.53,Indonesia,Aceh Utara,4.9463288,97.1951922
+Cipriani,Italian,$$,4.6,25,77.01,Italia,Napoli,40.7545736,14.4733611
+Jun Sakamoto,Japanese,$$$,3.6,58,132.81,Brasil,Paraíba,-7.0989185,-34.8446054
+Picchi,Italian,$$,4.0,134,97.42,Italia,Cumiana,44.9914623,7.3500574
+Kosushi,Japanese,$$$,5.0,29,137.38,España,València / Valencia,39.4636834,-0.3723545
+Kinoshita,Japanese,$$$$,4.9,103,194.46,日本,上伊那郡,35.9005505,137.988022
+Kan Suke,Japanese,$$,3.5,97,67.81,Brasil,São Paulo,-23.5685031,-46.6494886
+Huto,Japanese,$,4.9,31,22.43,Uganda,Agururu B I 'e',0.682152,34.16826253010921
+Stay,French contemporary,$$$,4.9,101,107.08,United States,Owsley County,37.5103656,-83.6521354
+Exquisine,Innovative,$$,3.6,121,75.91,대한민국,강남구,37.5210579,127.0497041
+Dosa,Innovative,$$$$,4.7,120,162.42,Nigeria,Idosa,6.55,2.733333
+Balwoo Gongyang,Temple cuisine,$$$,3.0,31,120.45,대한민국,종로구,37.5737728,126.983174
+Muoki,Innovative,$$$,3.7,117,146.89,대한민국,강남구,37.5190356,127.0422708
+L'Amitié,French,$$,3.3,132,95.35,Sesel,L'Amitié,-4.3103413,55.6997164
+Yu Yuan,Chinese,$,5.0,31,20.96,中国,黄浦区,31.2289274,121.48797519894343
+Bicena,Korean,$,4.0,45,22.04,Россия,Кызылский кожуун,51.5796206,93.54843155
+Poom,Korean,$,4.3,115,34.99,ព្រះរាជាណាចក្រ​កម្ពុជា,Poom Dong,10.5637089,104.22177994743268
+Soigné,Innovative,$,3.7,65,29.19,United States,Baltimore,39.28157175,-76.5934342423623
+Zero Complex,Innovative,$$$$,4.6,109,174.62,नेपाल,ललितपुर,27.68113495,85.32602385447095
+Jin Jin,Chinese,$,3.4,108,47.36,España,Madrid,40.424841,-3.7098715
+Hill Street Tai Hwa Pork Noodle,Street Food,$$$$,3.4,71,189.5,Singapore,Central,1.3051139,103.862559
+Putien (Kitchener Road),Fujian,$$,3.2,36,70.1,Singapore,Central,1.3096114,103.8573564
+Chef Kang's,Cantonese,$$,4.7,23,53.46,United States,South Central Connecticut Planning Region,41.25770625,-73.01350262213148
+Garibaldi,Italian,$$$,4.9,110,144.47,Brasil,Rio Grande do Sul,-29.2562253,-51.5269167
+Summer Pavilion,Cantonese,$,4.9,142,39.6,Malaysia,Johor Bahru,1.59522895,103.75381093985084
+Lei Garden,Cantonese,$$$,3.7,35,135.1,中国,灣仔區 Wan Chai District,22.27827,114.17869
+Whitegrass,Australian,$$$,3.2,98,113.72,United States,Whitegrass-Waterhole Creeks Site 1 Dam,33.9267744,-95.0335584
+Jaan,French contemporary,$$,3.8,123,91.63,Indonesia,Nganjuk,-7.5361797,112.0340512
+Cut,Steakhouse,$,3.3,27,45.37,România,Cut,45.9397245,23.6671934
+Alma,European contemporary,$$$$,3.1,122,194.12,Canada,Lac-Saint-Jean-Est,48.548887,-71.651459
+Crystal Jade Golden Palace,Chinese,$$$,3.0,142,131.18,Singapore,Central,1.3039518,103.8358924
+Saint Pierre,French contemporary,$$$,3.3,108,146.15,France,Grand Est,48.3832725,7.4718731
+Sushi Ichi,Sushi,$$$$,3.2,88,184.39,Deutschland,Frankfurt am Main,50.1262556,8.7085801
+Sushi Kimura,Sushi,$$$,3.2,137,114.42,Brasil,São Paulo,-21.4057699,-48.5033112
+Iggy's,European contemporary,$$,4.3,135,83.76,United States,City of New York,40.7711285,-73.9564384
+Braci,Italian contemporary,$,3.5,113,41.65,Polska,gmina Mińsk Mazowiecki,52.179950149999996,21.66530535
+Jiang-Nan Chun,Cantonese,$$$$,3.8,122,155.88,Singapore,Central,1.305116,103.8287373
+Bacchanalia,Innovative,$$$$,4.1,102,179.3,United States,Cook County,41.8479967,-87.6829231
+Corner House,Innovative,$$$$,4.5,49,156.62,United States,Frederick County,39.3951011,-77.5908225
+Summer Palace,Cantonese,$,3.5,98,23.07,中国,海淀区,39.99009825,116.2647403069096
+Burnt Ends,Barbecue,$$,3.5,80,73.27,United States,Whatcom County,48.934117,-122.4847446
+Rhubarb,French contemporary,$$$$,3.9,143,187.27,Singapore,Central,1.2793744,103.8430698
+Ma Cuisine,French,$$$$,4.4,149,169.07,United Kingdom,Greater London,51.4775555,-0.2858215
+Candlenut,Peranakan,$$$$,3.6,48,197.32,United States,Bexar County,29.422441999999997,-98.69871775
+Bhoga,Creative,$$$$,3.8,105,161.01,India,Tarn Taran,31.4347051,74.9113082
+28+,Modern cuisine,$,4.6,137,31.89,France,Eure-et-Loir,48.4474102,1.3998820185020766
+SK Mat & Människor,Modern cuisine,$$$,3.1,101,105.03,Sverige,Göteborgs Stad,57.6971249,11.9830794
+Upper House,Creative,$$,4.6,126,56.5,United Kingdom,West Yorkshire,53.5504342,-1.7697694542092222
+Agrikultur,Modern cuisine,$$,4.6,48,96.25,Sverige,Stockholms kommun,59.3128651,18.0832343
+Sushi Sho,Japanese,$$,3.5,78,84.4,Sverige,Stockholms kommun,59.3412889,18.0496718
+Volt,Creative,$,3.7,98,49.46,United States,Wolf Point District / šųktógeja oʾípa,48.3883555,-105.7188926
+Ekstedt,Meats and grills,$$,4.2,131,99.45,Sverige,Stockholms kommun,59.3367361,18.0748442
+Operakällaren,Classic cuisine,$$,3.5,85,67.3,Sverige,Stockholms kommun,59.3297034,18.0712747
+Aloë,Creative,$,3.4,31,26.33,Sverige,Stockholms kommun,59.2842361,17.9853468
+PM & Vänner,Creative,$$$$,3.9,45,183.12,Sverige,Växjö kommun,56.8789989,14.8040981
+Bloom in the Park,Creative,$$$$,3.1,123,166.95,Sverige,Malmö kommun,55.590634449999996,12.997032633993953
+SAV,Creative,$$$,4.6,31,119.46,Türkiye,Isparta Merkez,37.765446,30.645786
+Golden Formosa,Taiwanese,$$$$,3.2,110,173.33,Canada,Golden Horseshoe,43.8847662791194,-79.40940174971023
+Danny's Steakhouse,Steakhouse,$$$$,4.0,149,193.23,臺灣,下塔悠,25.082569,121.5529449
+L'Atelier de Joël Robuchon,French contemporary,$,3.6,21,39.89,United Kingdom,Greater London,51.5130445,-0.12848940252511937
+Kitcho,Sushi,$$$,4.2,36,133.55,Australia,Balranald Shire Council,-33.8556627,144.1050885
+Tien Hsiang Lo,Hang Zhou,$$$$,4.9,53,199.64,中国,尖草坪区,37.9917767,112.4989695
+Ya Ge,Cantonese,$$$$,4.3,53,197.82,France,Bourgogne-Franche-Comté,47.8205362,6.381641849999999
+Da-Wan,Barbecue,$$$,3.1,60,128.6,United States,Collin County,33.0188853,-96.7359459
+logy,Asian contemporary,$$$,4.0,126,124.97,臺灣,車罾,25.035635,121.5532118
+Ming Fu,Taiwanese,$,4.1,103,20.37,United States,Mecklenburg County,35.1160739,-80.7232610889844
+Sushi Ryu,Sushi,$$$$,3.6,84,192.1,Chile,Provincia de Santiago,-33.5184273,-70.7878619
+MUME,European contemporary,$$,3.3,51,79.48,Uruguay,Paso de las Duranas,-34.8421233,-56.1985539
+Longtail,Innovative,$$,4.9,103,70.55,United Kingdom,Essex,51.64188708160732,0.43417055110584013
+Da San Yuan,Cantonese,$$$$,4.8,71,151.14,中国,凉山彝族自治州 ꆃꎭꆈꌠꊨꏦꏱꅉꍏ,27.5145422,101.8800723
+Suan Thip,Thai,$$$$,3.9,125,162.52,ประเทศไทย,อำเภอปากเกร็ด,13.9266983,100.5031834
+R-Haan,Thai,$$,4.4,41,59.82,ประเทศไทย,เขตวัฒนา,13.7318515,100.5796558
+Canvas,Innovative,$$$,3.8,100,143.07,United States,Nicholas County,38.2684442,-80.7742625
+Elements,French contemporary,$$,4.4,70,69.8,中国,九龍 Kowloon,22.3047771,114.16195551775775
+Paste,Thai,$$$,3.7,116,111.14,France,Auvergne-Rhône-Alpes,44.7243669,4.5923171
+Ginza Sushi ichi,Sushi,$$,4.5,127,82.98,ประเทศไทย,เขตปทุมวัน,13.7439949,100.5407433
+Sorn,Southern Thai,$$$,4.3,102,147.15,United Kingdom,East Ayrshire,55.5107018,-4.2889005
+Savelberg,French contemporary,$,3.5,35,24.42,België / Belgique / Belgien,Antwerpen,51.17729520670449,5.167558994327394
+Gaa,Innovative,$$,4.6,91,61.5,Liberia,Gaa,7.2007238,-8.8202075
+Methavalai Sorndaeng,Thai,$$,4.9,47,68.37,ประเทศไทย,เขตพระนคร,13.7561123,100.5020888
+Jay Fai,Street Food,$$$$,3.9,77,164.05,ประเทศไทย,เขตพระนคร,13.7525335,100.5047365
+Nahm,Thai,$$$$,4.2,78,192.0,ประเทศไทย,เขตสาทร,13.7235709,100.5389708
+J'AIME by Jean-Michel Lorain,French contemporary,$$,4.7,33,76.98,ประเทศไทย,เขตสาทร,13.7181472,100.5459419
+Saawaan,Thai Contemporary,$$$$,3.9,98,168.82,ประเทศไทย,เขตสาทร,13.7215417,100.5374394
+Le Du,Thai,$,4.9,40,38.72,France,Bretagne,48.530564299999995,-2.977084828529085
+Ruean Panya,Thai,$$$,4.2,91,134.12,ประเทศไทย,ท่าจีน,13.5583537,100.2824838
+PRU,Innovative,$$$$,4.6,64,155.19,Brasil,São Paulo,-23.4049219,-46.7536959
+Blue Duck Tavern,American,$,4.8,111,48.08,United States,Washington,38.9055325,-77.0511634
+Tail Up Goat,Contemporary,$$,4.6,64,96.68,United States,Washington,38.9235567,-77.0431863
+Sushi Taro,Japanese,$,4.3,107,38.64,United States,Washington,38.909944,-77.0382421
+Plume,European,$,3.8,97,23.26,Polska,gmina Aleksandrów Łódzki,51.81514165,19.332939257806103
+Bresca,Contemporary,$$,3.8,130,98.4,Hrvatska,Općina Matulji,45.4097425,14.2952779
+The Dabney,American,$$$$,3.5,48,163.76,United States,Washington,38.9063777,-77.0245704
+Métier,Contemporary,$$$$,4.7,69,186.22,United States,King County,47.6127799,-122.318728
+Kinship,Contemporary,$$,3.1,107,73.85,United States,Washington,38.9033177,-77.0217013
+Fiola,Italian,$$,4.9,77,89.91,Italia,Torino,45.0047553,7.3545627
+Masseria,Italian,$$$,3.7,61,107.53,Italia,Biella,45.5908337,8.0789243
+Rose's Luxury,Contemporary,$$$,3.7,37,125.87,United States,Washington,38.88063055,-76.99524230254784
